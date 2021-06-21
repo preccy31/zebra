@@ -1,0 +1,14 @@
+table,tr, th, td{
+	font-family: verdana, sans-serif;
+	padding: 10px 40px;
+	text-align: center;
+	border:  1px solid #ddd;
+	border-collapse: collapse;
+	width: 50%;}
+
+
+.paint-row{
+	background-color: black;
+	color: white;
+}
+
